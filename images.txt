@@ -1,1 +1,1 @@
-pgvector/pgvector:pg17
+alpine:3.19.1
